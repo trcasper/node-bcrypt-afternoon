@@ -1,3 +1,4 @@
+  
 INSERT INTO treasures
 (image_url, user_id)
 VALUES
